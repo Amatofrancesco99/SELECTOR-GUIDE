@@ -1,0 +1,1819 @@
+<html>
+<!-- saved from url=(0014)about:internet -->
+<body style="background-color:lightgray">
+<table width=”100%” cellpadding=”0? cellspacing=”0?>
+<td width=”80?>
+</map> 
+<img src="C:\Users\Francesco\Documents\SCUOLA\STAGE_IFS_ORE ALTERNANZA\STAGE\SELECTOR GUIDE AND WEBSITE (project)\sito\via logo.png" width="170" height="80" border="0" usemap="#map" />
+<map name="map">
+<area shape="rect" coords="2,1,173,80" href="http://www.viatech.com/en/" />
+</map>
+<a href="https://en.wikipedia.org/wiki/VIA_Technologies">Who is VIA Technologies</a> 
+</td>
+<td width=”80?>
+<img src="C:\Users\Francesco\Documents\SCUOLA\STAGE_IFS_ORE ALTERNANZA\STAGE\SELECTOR GUIDE AND WEBSITE (project)\sito\selector logo.png" width="150" height="130" style="position:absolute;top:-10px;right:0px;z-index:1";/> </div>
+</td>
+</table>
+<div style="text-align: center"> <h1>VIA SELECTOR GUIDE ONLINE</h1> </div>
+<div style="text-align: center"> <h1>PANEL PC</h1> </div>
+<br>
+<a href="C:\Users\Francesco\Documents\SCUOLA\STAGE_IFS_ORE ALTERNANZA\STAGE\SELECTOR GUIDE AND WEBSITE (project)\sito\sito.html">Home</a>
+<br>
+<a href="javascript:history.go(-1);">Come Back</a>
+<br>
+<a href="C:\Users\Francesco\Documents\SCUOLA\STAGE_IFS_ORE ALTERNANZA\STAGE\SELECTOR GUIDE AND WEBSITE (project)\sito\Box_pc.html">Box PC</a>
+<br>
+<a href="C:\Users\Francesco\Documents\SCUOLA\STAGE_IFS_ORE ALTERNANZA\STAGE\SELECTOR GUIDE AND WEBSITE (project)\sito\Monitor.html">Monitor</a>
+<br>
+<form>
+  <h3> <legend>Display size (")</legend> </h3>
+
+  <select name="display" >
+   <option value=""></option>
+   <option value="6,5">6,5</option>
+   <option value="10,4">10,4</option>
+   <option value="12,1">12,1</option>
+   <option value="15">15</option>
+   <option value="17">17</option>
+   <option value="18,5">18,5</option>
+   <option value="21,5">21,5</option>
+  </select>
+</form>
+  <h3> <legend>Resolution</legend> </h3>
+  <input type="textbox" name="resolution" id="resolution" disabled="true">
+  </textarea>
+
+<form>
+  <h3> <legend>CPU</legend> </h3>
+
+  <select name="cpu" >
+   <option value=""></option>
+   <option value="J1900">J1900</option>
+   <option value="Celeron 1020E">Celeron 1020E</option>
+   <option value="i3-3120ME">i3-3120ME</option>
+   <option value="i5-4300U">i5-4300U</option>
+   <option value="i5-3610ME">i5-3610ME</option>
+   <option value="i7-3610QE">i7-3610QE</option>
+  </select>
+</form>
+
+  <h3> <legend>#of cores</legend> </h3>
+  <input type="textbox" name="cores" id="cores" disabled="true">
+  </textarea>
+
+  <h3> <legend>Frequency</legend> </h3>
+  <input type="textbox" name="frequency" id="frequency" disabled="true">
+  </textarea>
+
+  <h3> <legend>Cache Type</legend> </h3>
+  <input type="textbox" name="cache type" id="cache type" disabled="true">
+  </textarea>
+
+  <h3> <legend>Cache Memory</legend> </h3>
+  <input type="textbox" name="cache memory" id="cache memory" disabled="true">
+  </textarea>
+
+  <h3> <legend>Memory</legend> </h3>
+  <input type="textbox" name="memory" id="memory" disabled="true">
+  </textarea>
+
+  <h3> <legend>HDMI ports</legend> </h3>
+  <input type="textbox" name="hdmi" id="hdmi" disabled="true">
+  </textarea>
+
+
+  <h3> <legend>Dual Display</legend> </h3>
+  <input type="textbox" name="dual display" id="dual display" disabled="true">
+  </textarea>
+
+  <h3> <legend>Vga</legend> </h3>
+  <input type="textbox" name="vga" id="vga" disabled="true">
+  </textarea>
+
+  <h3> <legend>USB 3.0</legend> </h3>
+  <input type="textbox" name="usb 3.0" id="usb 3.0" disabled="true">
+  </textarea>  
+
+  <h3> <legend>USB 2.0</legend> </h3>
+  <input type="textbox" name="usb 2.0" id="usb 2.0" disabled="true">
+  </textarea>
+
+  <h3> <legend>Serial Ports RS232/422/485</legend> </h3>
+  <input type="textbox" name="serial ports 1" id="serial ports 1" disabled="true">
+  </textarea>
+
+  <h3> <legend>Serial Ports RS232</legend> </h3>
+  <input type="textbox" name="serial ports 2" id="serial ports 2" disabled="true">
+  </textarea>
+
+  <h3> <legend>Digital I/O</legend> </h3>
+  <input type="textbox" name="digital" id="digital" disabled="true">
+  </textarea>
+
+<form>
+  <h3> <legend>Mini PCIe Full Size slot</legend> </h3>
+  <input type="textbox" name="PCIe full" id="PCIe full" disabled="true">
+  </textarea>
+
+  <h3> <legend>Mini PCIe Half Size Slot</legend> </h3>
+  <input type="textbox" name="PCIe half" id="PCIe half" disabled="true">
+  </textarea>
+
+  <h3> <legend>Type of SATA</legend> </h3>
+  <input type="textbox" name="sata type" id="sata type" disabled="true">
+  </textarea>
+
+  <h3> <legend># of sata</legend> </h3>
+  <input type="textbox" name="sata" id="sata" disabled="true">
+  </textarea>
+
+  <h3> <legend>mSATA</legend> </h3>
+  <input type="textbox" name="mSATA" id="mSATA" disabled="true">
+  </textarea>
+
+  <h3> <legend>Power Supply Voltage</legend> </h3>
+  <input type="textbox" name="power" id="power" disabled="true">
+  </textarea>
+
+  <form>
+  <h3> <legend>Touch Type</legend> </h3>
+
+  <select name="touch type">
+   <option value=""></option>
+   <option value="Capacitive">Capacitive</option>
+   <option value="Resistive">Resistive</option>
+  </select>
+</form>
+
+  <h3> <legend>Brightness</legend> </h3>
+  <input type="textbox" name="brightness" id="brightness" disabled="true">
+  </textarea>
+
+  <h3> <legend>Operating Temperature</legend> </h3>
+  <input type="textbox" name="operating" id="operating" disabled="true">
+  </textarea>
+
+  <h3> <legend>Ethernet</legend> </h3>
+  <input type="textbox" name="ethernet" id="ethernet" disabled="true">
+  </textarea>
+<br>
+<h2> <legend>YOUR PRODUCT</legend> </h2>
+  <input type="textbox" name="product" id="product" style=width:300px disabled="true">
+  </textarea>
+<script>
+document.getElementsByName('display')[0].onchange = function()
+{
+if (this.value=="6,5")
+	{
+		document.getElementsByName('cpu')[0].onchange = function() 
+		{
+			if (this.value=="J1900")
+			{
+                           document.getElementsByName('touch type')[0].onchange = function() 
+		           {
+			     if (this.value=="Resistive")
+			   {
+				var out="VP-2006";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="640*480";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="4";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="2.0 GHz";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="L2";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="2 MB";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="8 GB";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="1";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="Yes";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="1";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="2";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="0";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="1";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="1";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="No";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="1";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="1";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="SATA II";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="1";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="Yes";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="9-36 V";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="800";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="-20/+55";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="2";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+			    if (this.value=="Capacitive")
+			   {
+				var out="Contact Sales";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+			    if (this.value=="")
+			   {
+				alert('Select Touch Type!');
+				var out="";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+	 	           }
+			}
+		}
+	}
+if (this.value=="12,1")
+	{
+		document.getElementsByName('cpu')[0].onchange = function() 
+		{
+			if (this.value=="J1900")
+			{
+                           document.getElementsByName('touch type')[0].onchange = function() 
+		           {
+			     if (this.value=="Capacitive")
+			   {
+				var out="VP-2112R";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="800*600";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="4";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="2.0 GHz";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="L2";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="2 MB";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="8 GB";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="1";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="Yes";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="1";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="2";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="2";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="1";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="3";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="8 pin";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="No";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="2";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="SATA II";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="1";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="No";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="9-36 V";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="450";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="0/+50";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="2";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+                             if (this.value=="Resistive")
+			   {
+				var out="VP-2112P";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="800*600";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="4";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="2.0 GHz";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="L2";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="2 MB";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="8 GB";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="1";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="Yes";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="1";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="2";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="2";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="1";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="3";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="8 pin";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="No";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="2";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="SATA II";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="1";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="No";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="9-36 V";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="450";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="0/+50";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="2";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }
+			     if (this.value=="")
+			   {
+				alert('Select Touch Type!');
+				var out="";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+	 	           }
+			}
+		}
+	}
+if (this.value=="17")
+	{
+		document.getElementsByName('cpu')[0].onchange = function() 
+		{
+			if (this.value=="J1900")
+			{
+                           document.getElementsByName('touch type')[0].onchange = function() 
+		           {
+			     if (this.value=="Capacitive")
+			   {
+				var out="VP-2117";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="1280*1024";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="4";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="2.0 GHz";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="L2";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="2 MB";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="8 GB";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="1";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="Yes";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="1";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="2";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="2";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="1";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="2";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="No";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="No";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="1";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="SATA II";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="1";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="No";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="9-36 V";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="350";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="0/+50";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="2";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+			     if (this.value=="Resistive")
+			   {
+				var out="Contact Sales";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+ 		             if (this.value=="")
+			   {
+				alert('Select Touch Type!');
+				var out="";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+                           }
+			}
+		}
+	}
+if (this.value=="18,5")
+	{
+		document.getElementsByName('cpu')[0].onchange = function() 
+		{
+			if (this.value=="i5-4300U")
+			{
+                           document.getElementsByName('touch type')[0].onchange = function() 
+		           {
+			     if (this.value=="Capacitive")
+			   {
+				var out="VP-6018";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="1366*768";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="2";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="2.9 GHz";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="L2";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="3 MB";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="8 GB";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="2";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="Yes";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="No";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="4";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="0";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="1";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="3";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="8 pin";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="1";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="1";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="SATA II";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="1";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="No";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="9-36 V";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="250";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="0/+50";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="2";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+ 				if (this.value=="Resistive")
+			   {
+				var out="Contact Sales";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+				if (this.value=="")
+			   {
+				alert('Select Touch Type!');
+				var out="";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+                           }
+			}
+		}
+	}
+if (this.value=="10,4")
+	{
+		document.getElementsByName('cpu')[0].onchange = function() 
+		{
+			if (this.value=="J1900")
+			{
+                           document.getElementsByName('touch type')[0].onchange = function() 
+		           {
+			     if (this.value=="Capacitive")
+			   {
+				var out="VP-102P";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="800*600";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="4";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="2.0 GHz";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="L2";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="2 MB";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="8 GB";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="1";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="Yes";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="1";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="2";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="2";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="1";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="2";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="No";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="1";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="1";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="SATA II";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="1";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="Yes";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="9-36 V";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="230";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="0/+50";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="2";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+ 				if (this.value=="Resistive")
+			   {
+				var out="VP-102R";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="800*600";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="4";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="2.0 GHz";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="L2";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="2 MB";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="8 GB";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="1";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="Yes";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="1";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="2";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="2";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="1";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="2";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="No";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="1";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="1";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="SATA II";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="1";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="Yes";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="9-36 V";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="230";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="0/+50";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="2";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+				if (this.value=="")
+			   {
+				alert('Select Touch Type!');
+				var out="";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+                           }
+			}
+		}
+	}
+if (this.value=="15")
+	{
+		document.getElementsByName('cpu')[0].onchange = function() 
+		{
+			if (this.value=="i5-4300U")
+			{
+                           document.getElementsByName('touch type')[0].onchange = function() 
+		           {
+			     if (this.value=="Capacitive")
+			   {
+				var out="VP-6015P";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="1024*768";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="2";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="1.9 GHz";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="L2";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="3 MB";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="8 GB";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="2";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="Triple";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="No";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="4";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="0";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="2";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="2";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="8 pin";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="1";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="1";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="SATA II";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="1";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="Yes";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="9-36 V";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="250";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="0/+50";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="2";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+ 				if (this.value=="Resistive")
+			   {
+				var out="VP-6015R";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="1024*768";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="2";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="1.9 GHz";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="L2";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="3 MB";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="8 GB";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="2";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="Triple";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="No";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="4";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="0";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="2";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="2";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="8 pin";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="1";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="1";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="SATA II";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="1";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="Yes";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="9-36 V";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="250";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="0/+50";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="2";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+				if (this.value=="")
+			   {
+				alert('Select Touch Type!');
+				var out="";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+                           }
+			}
+		}
+	}
+if (this.value=="21,5")
+	{
+		document.getElementsByName('cpu')[0].onchange = function() 
+		{
+			if (this.value=="i7-3610QE")
+			{
+                           document.getElementsByName('touch type')[0].onchange = function() 
+		           {
+			     if (this.value=="Capacitive")
+			   {
+				var out="VP-3021";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="1920*1080";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="4";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="2.3 GHz";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="L3";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="6 MB";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="16 GB";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="1";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="DVI-I";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="No";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="4";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="0";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="2";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="2";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="No";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="1";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="No";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="SATA III";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="1";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="Yes";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="12 V";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="250";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="0/+50";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="2";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+ 				if (this.value=="Resistive")
+			   {
+				var out="Contact sales";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+				if (this.value=="")
+			   {
+				alert('Select Touch Type!');
+				var out="";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+                           }
+			}
+			if (this.value=="i5-3610ME")
+			{
+                           document.getElementsByName('touch type')[0].onchange = function() 
+		           {
+			     if (this.value=="Capacitive")
+			   {
+				var out="VP-3021";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="1920*1080";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="2";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="2.7 GHz";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="L3";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="3 MB";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="16 GB";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="1";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="DVI-I";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="No";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="4";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="0";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="2";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="2";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="No";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="1";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="No";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="SATA III";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="1";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="Yes";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="12 V";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="250";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="0/+50";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="2";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+ 				if (this.value=="Resistive")
+			   {
+				var out="Contact sales";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+				if (this.value=="")
+			   {
+				alert('Select Touch Type!');
+				var out="";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+                           }
+			}
+			if (this.value=="i3-3120ME")
+			{
+                           document.getElementsByName('touch type')[0].onchange = function() 
+		           {
+			     if (this.value=="Capacitive")
+			   {
+				var out="VP-3021";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="1920*1080";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="2";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="2.4 GHz";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="L3";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="3 MB";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="16 GB";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="1";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="DVI-I";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="No";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="4";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="0";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="2";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="2";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="No";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="1";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="No";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="SATA III";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="1";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="Yes";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="12 V";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="250";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="0/+50";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="2";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+ 				if (this.value=="Resistive")
+			   {
+				var out="Contact sales";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+				if (this.value=="")
+			   {
+				alert('Select Touch Type!');
+				var out="";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+                           }
+			}
+			if (this.value=="Celeron 1020E")
+			{
+                           document.getElementsByName('touch type')[0].onchange = function() 
+		           {
+			     if (this.value=="Capacitive")
+			   {
+				var out="VP-3021";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="1920*1080";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="2";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="2.2 GHz";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="L3";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="2 MB";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="16 GB";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="1";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="DVI-I";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="No";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="4";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="0";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="2";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="2";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="No";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="1";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="No";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="SATA III";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="1";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="Yes";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="12 V";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="250";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="0/+50";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="2";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+ 				if (this.value=="Resistive")
+			   {
+				var out="Contact sales";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+				if (this.value=="")
+			   {
+				alert('Select Touch Type!');
+				var out="";
+ 				document.getElementsByName('product')[0].value = out;
+				var resolution="";
+				document.getElementsByName('resolution')[0].value = resolution;
+				var cores="";
+				document.getElementsByName('cores')[0].value = cores;
+				var frequency="";
+				document.getElementsByName('frequency')[0].value = frequency;
+				var cachetype="";
+				document.getElementsByName('cache type')[0].value = cachetype;
+                                var cachememory="";
+				document.getElementsByName('cache memory')[0].value = cachememory;
+                                var memory="";
+				document.getElementsByName('memory')[0].value = memory;
+				var hdmi="";
+				document.getElementsByName('hdmi')[0].value = hdmi;
+				var display="";
+				document.getElementsByName('dual display')[0].value = display;
+				var vga="";
+				document.getElementsByName('vga')[0].value = vga;
+				var usb_3="";
+				document.getElementsByName('usb 3.0')[0].value = usb_3;
+				var usb_2="";
+				document.getElementsByName('usb 2.0')[0].value = usb_2;
+				var serialports1="";
+				document.getElementsByName('serial ports 1')[0].value = serialports1;
+				var serialports2="";
+				document.getElementsByName('serial ports 2')[0].value = serialports2;
+				var digital="";
+				document.getElementsByName('digital')[0].value = digital;
+				var full="";
+				document.getElementsByName('PCIe full')[0].value = full;
+				var half="";
+				document.getElementsByName('PCIe half')[0].value = half;
+				var satatype="";
+				document.getElementsByName('sata type')[0].value = satatype;
+				var sata="";
+				document.getElementsByName('sata')[0].value = sata;
+				var msata="";
+				document.getElementsByName('mSATA')[0].value = msata;
+				var power="";
+				document.getElementsByName('power')[0].value = power;
+				var brightness="";
+				document.getElementsByName('brightness')[0].value = brightness;
+				var operating="";
+				document.getElementsByName('operating')[0].value = operating;
+				var ethernet="";
+				document.getElementsByName('ethernet')[0].value = ethernet;
+			   }  
+                           }
+			}
+		}
+	}
+}		
+</script>
+<br>
+<br>
+<a href="C:\Users\Francesco\Documents\SCUOLA\STAGE_IFS_ORE ALTERNANZA\STAGE\SELECTOR GUIDE AND WEBSITE (project)\sito\Panel_pc.html">Delete changes or search another panel pc</a>
+<br>
+<br>
+<br>
+<br>
+<h5>POWERED BY INNOVATION & CREATION STUDIO</h5> 
+</form>
+</html>
