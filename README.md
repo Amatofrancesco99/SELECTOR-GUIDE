@@ -1,14 +1,14 @@
 # Selector-Guide
 
-Year: 2016
+*Year:* 2016
 
+**The aim of this application is to direct a customer, by one employee which works in the sales department of the company, to the product (products) that reflects (reflect) better the technical specifications he requests.**
 ***
 ![image](https://user-images.githubusercontent.com/80333091/113696461-56e3cb80-96d2-11eb-916d-92ee35f06e45.png)
 
-
-The aim of the selector guide is searching every product which Via technologies (https://www.viatech.com/en/) develops. 
+The selector guide is searching every product which Via technologies (https://www.viatech.com/en/) develops. 
 By some features that you put into the selector guide you can see some output, which are:
- - name of the product; 
+ - name of the product/s; 
  - all its features; 
  - datasheet of some products (only on excel);
 
