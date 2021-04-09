@@ -2,7 +2,7 @@
 
 *Year:* 2016
 
-**The aim of this application is to direct a customer, by one employee which works in the sales department of the company, to the product (products) that reflects (reflect) better the technical specifications he requests.**
+**The aim of this application is to direct a customer, by one employee which works in the sales department of the company, to the product (products) that reflects (reflect) better the technical features he requests.**
 ***
 ![image](https://user-images.githubusercontent.com/80333091/113696461-56e3cb80-96d2-11eb-916d-92ee35f06e45.png)
 
